@@ -1,0 +1,14 @@
+
+.navbar ul li{
+   transition: all .4s ease-in;
+}
+.navbar ul:hover > li{
+   opacity: 0.5;
+}
+.navbar ul li:hover {
+   opacity: 1;
+}
+
+/* Card Styles */
+
+

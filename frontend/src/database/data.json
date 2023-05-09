@@ -1,0 +1,21 @@
+[
+   {
+      "name": "Mukesh",
+      "passion": " Full-Stac Developer",
+      "description": "I am Full-Stack Developer with 6 month of experience",
+      "pic": "https://images.unsplash.com/photo-1683013322960-b59c7e190643?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+   },
+   {
+      "name": "Faize",
+      "passion": "UX/UI Designer",
+      "description": "I am UX/UI Designer with 7 month of experience",
+      "pic": "https://images.unsplash.com/photo-1682877166684-dde34846a135?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+
+   },
+   {
+      "name": "Umer",
+      "passion": "React Developer",
+      "description": "I am Fronten Developer with 6 month of experience",
+      "pic": "https://images.unsplash.com/photo-1682283523628-62c64d5ba01b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+   }
+]
